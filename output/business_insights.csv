@@ -1,0 +1,8 @@
+Business_Insight
+The best-performing model is Polynomial Regression.
+The model achieved an R² score of 1.0000.
+The model's average absolute prediction error (MAE) is ₹0.00.
+The model's RMSE is ₹0.00.
+"The most important feature according to Random Forest is Area, with an importance score of 0.6888."
+Area showed the strongest linear relationship with house price during exploratory analysis.
+The trained model can be used as a baseline system for estimating house prices from property characteristics.
