@@ -1,0 +1,11 @@
+Metric,Value
+Original Rows,300
+Rows After Duplicate Removal,300
+Training Samples,240
+Testing Samples,60
+Training Percentage,80%
+Testing Percentage,20%
+Numerical Features,4
+Categorical Features,2
+Encoded Categorical Features,6
+Total Processed Features,10

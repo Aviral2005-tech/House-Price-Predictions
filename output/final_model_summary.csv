@@ -1,0 +1,8 @@
+Metric,Value
+Best Model,Polynomial Regression
+R2 Score,1.0
+MAE,0.0003475222736597061
+RMSE,0.00042245272440739423
+Training Samples,240
+Testing Samples,60
+Total Dataset Rows,300
